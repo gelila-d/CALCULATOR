@@ -2,7 +2,7 @@
    A simple calculator built using HTML, CSS and JavaScript.Perform basic arithmetic operations with a user friendly interface.
 
 ***___ Features___*** 
-    + addition Subtracion multiplication and division 
+    + ** addition Subtracion multiplication and division **
     + clean and responsive design
     + clickable buttons
     
