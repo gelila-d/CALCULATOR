@@ -2,14 +2,14 @@
    A simple calculator built using HTML, CSS and JavaScript.Perform basic arithmetic operations with a user friendly interface.
 
 ***___ Features___*** 
-    + ** addition Subtracion multiplication and division **
-    + clean and responsive design
-    + clickable buttons
++ addition Subtracion multiplication and division 
++ clean and responsive design
++ clickable buttons
     
 ***__Technology used__***
-    +  HTML - structure of the calculator
-    +  CSS  - styling
-    + JavaScript  - logic for perfforming calculations
++  HTML - structure of the calculator
++  CSS  - styling
++ JavaScript  - logic for perfforming calculations
 
 ***__  How to use __***
     1. Enter numbers using the buttons.
